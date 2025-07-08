@@ -26,9 +26,9 @@ This is a mobile frontend built using **React Native** and **Expo** to showcase 
 
 ## 📸 Screenshots
 
-| Home Page | Category View | Recipe Details |
+| Home Page |
 |-----------|---------------|----------------|
-| ![Home](screenshots/home.png) | ![Categories](screenshots/category.png) | ![Details](screenshots/details.png) |
+| ![Home](screenshots/Home.png) |
 
 ---
 

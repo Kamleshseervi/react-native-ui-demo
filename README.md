@@ -1,4 +1,40 @@
-<<<<<<< HEAD
-=======
+# 🍽️ React Native Recipes App (Frontend UI Demo)
 
->>>>>>> a9c6155cb92436ac637d5d3fad16544c77aea1d4
+This is a mobile frontend built using **React Native** and **Expo** to showcase a clean, responsive user interface for a recipe browsing application. It is designed to demonstrate skills in building modern mobile UIs using React Native components, navigation, and styling.
+
+---
+
+## 📱 Features
+
+- View recipes with images, ingredients, and instructions
+- Browse recipes by categories
+- Smooth navigation between screens
+- Clean and modern design
+- Optimized for Android and iOS
+
+---
+
+## 🛠️ Tech Stack
+
+- React Native
+- Expo
+- React Navigation
+- JavaScript / JSX
+- Custom Styling
+
+---
+
+## 📸 Screenshots
+
+| Home Page | Category View | Recipe Details |
+|-----------|---------------|----------------|
+| ![Home](screenshots/home.png) | ![Categories](screenshots/category.png) | ![Details](screenshots/details.png) |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/Kamleshseervi/react-native-ui-demo.git
+cd react-native-ui-demo
